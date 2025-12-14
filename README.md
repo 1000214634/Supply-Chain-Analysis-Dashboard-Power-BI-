@@ -6,7 +6,9 @@ This project focuses on analyzing supply chain performance using interactive Pow
 
 ---
 ##💡 Dashboard Snapshot
+
 Here is a visual overview of the interactive Power BI dashboard:
+
 
 <img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/c4114583-2562-4aff-82f5-ba37fca6e619" />
 

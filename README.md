@@ -4,7 +4,11 @@
 
 This project focuses on analyzing supply chain performance using interactive Power BI dashboards. The objective is to identify inefficiencies in inventory management, warehouse utilization, and order fulfillment, and provide actionable insights to support better operational decisions.
 
-<img width="866" height="495" alt="image" src="https://github.com/user-attachments/assets/b02a7bb8-4592-460d-8240-5fc54ae48f8e" />
+---
+##💡 Dashboard Snapshot
+Here is a visual overview of the interactive Power BI dashboard:
+
+<img width="883" height="495" alt="image" src="https://github.com/user-attachments/assets/c4114583-2562-4aff-82f5-ba37fca6e619" />
 
 ---
 
